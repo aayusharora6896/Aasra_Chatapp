@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aasra Volunteer </string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">Help at your Fingertips</string>
+    <string name="desc_slide1">Chat with us and we will help you fight depression</string>
+    <string name="title_slide2">Keep your Name and other details private</string>
+    <string name="desc_slide2">Sign Up and Sign In using any Username. No Names, E-Mails or Mobile Numbers required</string>
+    <string name="title_slide3">Chat to our volunteers and receive counselling</string>
+    <string name="desc_slide3">We are the leading NGO in Counselling and always ready to help you</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="signout">Signout</string>
+
+</resources>
